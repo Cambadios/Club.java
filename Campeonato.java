@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Campeonato {
     Judoka[] lista;
-    int llave;
+    int key;
 
     public Campeonato(int llave, Judoka[] lista) {
         this.lista = lista;
